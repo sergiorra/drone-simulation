@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96861bc3-a1f7-4ef6-9e8d-23802a1e0900" name="Default Changelist" comment="" />
+    <list default="true" id="96861bc3-a1f7-4ef6-9e8d-23802a1e0900" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/internal/models/command/command.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/models/command/command.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

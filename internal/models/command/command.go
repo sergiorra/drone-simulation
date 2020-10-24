@@ -3,7 +3,7 @@ package command
 import (
 	"time"
 
-	"github.com/sergiorra/drones-simulation-derivco/internal/models/route"
+	"github.com/sergiorra/drone-simulation/internal/models/route"
 )
 
 // Command representation of command into data struct
